@@ -1,0 +1,36 @@
+table {
+  border-collapse: collapse;
+  width: 100%;
+  background-color: black;
+  color: white;
+}
+
+th, td {
+  border: 1px solid white;
+  padding: 8px;
+}
+
+th {
+  background-color: black;
+  color: white;
+}
+
+.heading {
+  text-align: center;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+caption {
+  font-size: 60px;
+  font-weight: bold;
+  text-align: center;
+  color: white;
+  background-color: black;
+}
+
+
+.profile-image {
+  width: 50px;
+  height: 50px;
+}
